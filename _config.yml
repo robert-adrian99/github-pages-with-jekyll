@@ -3,7 +3,7 @@ author: Robert - Adrian Bucur
 email: adrian_bucur49@ymail.com
 description: > # this means to ignore newlines until "baseurl:"
     This is my resume.
-theme: minima
+theme: developer
 # social links
 github_username:  robert-adrian99 # DO NOT include the @ character, or else the build will fail!
 
