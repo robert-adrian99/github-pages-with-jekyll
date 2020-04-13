@@ -1,6 +1,8 @@
 ---
-title: "My first post"
-date: 2020-04-13
+title: "Sudoku"
+date: 2018-05-15
 ---
 
-*This is my first post on blog host by GitHub Pages.*
+***This is a personal project I worked in highschool.***
+
+***This project is written in C# with WinForms.***
